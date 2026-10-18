@@ -84,10 +84,6 @@ Based on work by **crashing-2026**, with modifications focused on simplifying th
 
 See the original project for its implementation history and additional context.
 
-## License
-
-Add the license applicable to this repository and ensure it is compatible with the original project's license before redistributing derivative code.
-
 ## Disclaimer
 
 This project is intended for learning, protocol development, and authorized interoperability testing. Only connect to servers you own or have permission to test.
